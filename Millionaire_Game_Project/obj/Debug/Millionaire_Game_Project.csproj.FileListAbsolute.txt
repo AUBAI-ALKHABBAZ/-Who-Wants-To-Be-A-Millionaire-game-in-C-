@@ -1,0 +1,10 @@
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\bin\Debug\Millionaire_Game_Project.exe.config
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\bin\Debug\Millionaire_Game_Project.exe
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\bin\Debug\Millionaire_Game_Project.pdb
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\obj\Debug\Millionaire_Game_Project.csprojAssemblyReference.cache
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\obj\Debug\Millionaire_Game_Project.Properties.Resources.resources
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\obj\Debug\Millionaire_Game_Project.csproj.GenerateResource.cache
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\obj\Debug\Millionaire_Game_Project.csproj.CoreCompileInputs.cache
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\obj\Debug\Millionaire_Game_Project.exe
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\obj\Debug\Millionaire_Game_Project.pdb
+C:\Users\AUBAI\Desktop\Digital Logic\كورس_الصحة و السلامة المهنية\C#_SVU_ex\SVU_Courses\برمجة2\Millionaire_Game_Project_Test\Millionaire_Game_Project\obj\Debug\Millionaire_Game_Project.Form1.resources
